@@ -1,0 +1,19 @@
+{
+  "name": "meter-cost-analyzer",
+  "version": "1.0.0",
+  "description": "A mobile‑friendly Next.js app for tracking bi‑monthly electricity meter readings and analyzing cost contributions.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-chartjs-2": "5.2.0",
+    "chart.js": "4.4.0",
+    "date-fns": "3.4.0",
+    "uuid": "9.0.0"
+  }
+}
